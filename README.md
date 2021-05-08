@@ -1,12 +1,15 @@
-### Welcome to my github 🌱
-
-![giphy](https://user-images.githubusercontent.com/19712028/117519110-ae5faa80-afa2-11eb-9b6c-82d6e5dd43ca.gif)
-- 🔭 I’m currently working on Ecommerce system by using NodeJS specially expressJS and relashionship DB.
-- 🌱 I’m currently learning more about social coding and software automated testing.
-- 👯 I’m looking to collaborate on more software communities and share my little knowledge.
+# Hey I'm **Mohamed ELbastawesy** 🏃
+<p align="center">
+  <img src="https://gist.githubusercontent.com/bastawesy94/70a841485f751ffa414cab1b7e15174e/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="Coder GIF" width="500" height="400"/>
+</p>
+<div>
+- 🔭 I’m currently working on E-Commerce system by using NodeJS specially expressJS and relashionship DB.</br>
+- 👀 I’m currently learning more about social coding and software automated testing.</br>
+- 👯 I’m looking to collaborate on more software communities and share my little knowledge.</br>
 - 🤔 I’m looking for help with bloginig my tips here https://hashnode.com/@Bastawesy and some posts here https://www.linkedin.com/in/mohamedelbastawesy/.
-- 💬 Ask me about backend engineering anytime and i wish i help you.
-- 📫 How to reach me: on twitter https://twitter.com/bastawesy94 and my gmail mohamedel.bastawesy2020@gmail.com
+- 💬 Ask me about backend engineering anytime and i wish i help you.</br>
+- 📫 How to reach me: on twitter https://twitter.com/bastawesy94 and my gmail mohamedel.bastawesy2020@gmail.com</br>
+</div>
 <!--
 **bastawesy94/bastawesy94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
