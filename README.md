@@ -10,6 +10,9 @@
 - 💬 Ask me about backend engineering anytime and i wish i help you.</br>
 - 📫 How to reach me: on twitter https://twitter.com/bastawesy94 and my gmail mohamedel.bastawesy2020@gmail.com</br>
 </div>
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bastawesy94&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **bastawesy94/bastawesy94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
