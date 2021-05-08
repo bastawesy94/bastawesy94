@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on E-Commerce system by using NodeJS specially expressJS and relashionship DB.</br>
 - 👀 I’m currently learning more about social coding and software automated testing.</br>
 - 👯 I’m looking to collaborate on more software communities and share my little knowledge.</br>
-- 🤔 I’m looking for help with bloginig my tips here https://hashnode.com/@bastawesy94 and some posts here https://www.linkedin.com/in/mohamedelbastawesy/.</br>
+- 🤔 I’m looking for help with bloginig my tips here https://hashnode.com/@bastawesy94 and some posts here https://www.linkedin.com/in/bastawesy94/.</br>
 - 💬 Ask me about backend engineering anytime and i wish i help you.</br>
 - 🥇 That's my leetcode https://leetcode.com/bastawesy94/. </br>
 - 📫 How to reach me: on twitter https://twitter.com/bastawesy94 and my gmail mohamedel.bastawesy2020@gmail.com</br>
